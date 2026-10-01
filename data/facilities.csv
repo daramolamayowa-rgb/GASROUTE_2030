@@ -1,0 +1,6 @@
+facility_name,flare_mmscfd,ch4_percent,distance_km,power_demand_mw,road_access,reinjection_suitable,gas_richness,asset_category
+Ren_OML_HighRisk_1,12.0,91,45,2.0,True,False,False,Non-AG_Forfeiture_Risk
+Ren_OML_HighRisk_2,18.0,88,110,1.0,False,True,False,Non-AG_Forfeiture_Risk
+Ren_OML_HighRisk_3,6.5,89,35,8.0,True,False,True,Non-AG_Forfeiture_Risk
+Ren_Hub_Upset_AG_1,2.5,93,12,4.0,True,False,False,Active_AG_Upset_Audit
+Ren_Hub_Upset_AG_2,4.0,90,160,1.5,False,True,False,Active_AG_Upset_Audit
